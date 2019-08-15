@@ -1,0 +1,1 @@
+# newman-slack-integration
